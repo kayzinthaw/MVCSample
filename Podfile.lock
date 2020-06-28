@@ -1,0 +1,67 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Alamofire-SwiftyJSON (3.0.0):
+    - Alamofire (~> 4.5)
+    - SwiftyJSON (~> 4.0.0)
+  - AlamofireNetworkActivityLogger (2.4.0):
+    - Alamofire (~> 4.8)
+  - EVReflection/Alamofire (5.10.1):
+    - Alamofire
+    - EVReflection/Core
+  - EVReflection/Core (5.10.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - ReachabilitySwift (4.1.0)
+  - RxAlamofire (5.1.0):
+    - RxAlamofire/Core (= 5.1.0)
+  - RxAlamofire/Core (5.1.0):
+    - Alamofire (~> 4.8)
+    - RxSwift (~> 5.0)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Alamofire-SwiftyJSON
+  - AlamofireNetworkActivityLogger
+  - EVReflection/Alamofire
+  - IQKeyboardManagerSwift
+  - ReachabilitySwift (~> 4.1.0)
+  - RxAlamofire
+  - RxCocoa (= 5.0.0)
+  - RxSwift (= 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Alamofire-SwiftyJSON
+    - AlamofireNetworkActivityLogger
+    - EVReflection
+    - IQKeyboardManagerSwift
+    - ReachabilitySwift
+    - RxAlamofire
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Alamofire-SwiftyJSON: 2b3649d57dc7bb2880fb8b86f8bb969397666916
+  AlamofireNetworkActivityLogger: 6d3398c692d2c5d83b0c58793537860aca1e383d
+  EVReflection: 8124de482178d34ccd56473e16cd95990f9a1113
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  RxAlamofire: a2d7621de4c23a0c6e7b476b504acc32838ee341
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxRelay: a168bd6caf712d00c676ac344e9295afc93b418e
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 85cf343bdc56211e4d32d62c810ebf2bb9c4c30e
+
+COCOAPODS: 1.8.4
