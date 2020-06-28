@@ -21,7 +21,6 @@ class ProductData {
             ProductModel(image: #imageLiteral(resourceName: "hot_hands"), title: "Image6"),
             ProductModel(image: #imageLiteral(resourceName: "thailand"), title: "Image7"),
             ProductModel(image: #imageLiteral(resourceName: "tha"), title: "Image8"),
-            ProductModel(image: #imageLiteral(resourceName: "men"), title: "Image9"),
         ]
         
         return arrData
